@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794581762059",
+    "project_id": "avuxo-motorista",
+    "storage_bucket": "avuxo-motorista.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794581762059:android:b953e699e2d44bcd3d070e",
+        "android_client_info": {
+          "package_name": "com.avuxo.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFMsk9kmttHGaTpHWEhiaBr7FPltRVDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
